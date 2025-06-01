@@ -1,1 +1,1 @@
-# DharmAI
+DharmAI is a voice-enabled legal chatbot app that helps users understand their rights under the Consumer Protection Act 2019. It guides both clients and lawyers on relevant legal sections and procedural steps for various legal issues.
